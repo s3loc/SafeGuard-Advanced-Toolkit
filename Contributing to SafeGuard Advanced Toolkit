@@ -1,0 +1,52 @@
+Contributing to SafeGuard Advanced Toolkit
+
+We welcome contributions to the SafeGuard Advanced Toolkit project! Your involvement helps us improve the toolkit and address potential vulnerabilities more effectively. Please follow these guidelines to contribute:
+How to Contribute
+
+    Fork the Repository
+        Click the "Fork" button at the top right of the repository page to create your own copy of the repository.
+
+    Clone Your Fork
+        Clone your forked repository to your local machine:
+
+        bash
+
+    git clone https://github.com/yourusername/SafeGuard-Advanced-Toolkit.git
+
+Create a New Branch
+
+    Create a new branch for your changes:
+
+    bash
+
+    git checkout -b your-branch-name
+
+Make Your Changes
+
+    Implement your changes or additions. Be sure to write clear commit messages and document your code appropriately.
+
+Run Tests
+
+    Ensure all existing and new tests pass before submitting a pull request.
+
+Submit a Pull Request
+
+    Push your changes to your forked repository:
+
+    bash
+
+        git push origin your-branch-name
+
+        Go to the original repository and open a pull request from your branch.
+
+Guidelines
+
+    Code Quality: Ensure your code adheres to our coding standards and is thoroughly tested.
+    Documentation: Update documentation if your changes affect it.
+    Issue Tracking: Reference any relevant issues in your pull request.
+
+Code of Conduct
+
+Please adhere to our Code of Conduct to maintain a welcoming and respectful environment.
+
+Thank you for your contributions!
